@@ -1,0 +1,7 @@
+Pour executer le code, il faut donner l'acces au fichier "mymk.sh" par : 
+
+chmod u+x mymk.sh
+
+et apres executer par 
+
+./mymk

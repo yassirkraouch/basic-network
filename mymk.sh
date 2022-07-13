@@ -1,0 +1,1 @@
+gcc -Iinclude Client/*.c Serveur/*.c -o out -Wall -lpthread -O3
